@@ -1,0 +1,18 @@
+*{
+    font-family: sans-serif;
+}
+
+.itemTitle {
+    font-size: 20px;
+}
+
+.itemPrice {
+    color: rgb(73, 226, 98);
+    font-size: 14px;
+    display:inline;
+}
+
+.itemCat {
+    font-size: 14px;
+    display:inline;
+}
